@@ -1,6 +1,4 @@
 # function
-# Function: [Your Function Name]
-
 A simple Python function that [briefly describe what the function does].
 
 ## 📄 File
